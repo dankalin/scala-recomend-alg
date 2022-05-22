@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Hive Llap Client
+Implementation-Version: 2.3.7
+Archiver-Version: Plexus Archiver
+Built-By: gates
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Hive Llap Client
+Implementation-Vendor-Id: org.apache.hive
+Created-By: Apache Maven 3.6.1
+Build-Jdk: 1.8.0_111
+Specification-Version: 2.3.7
+Implementation-Vendor: The Apache Software Foundation
+
