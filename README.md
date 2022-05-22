@@ -1,7 +1,7 @@
 # scala-recomend-alg
 
-## Система сборки sbt
+Система сборки sbt
 
-## Dataset'ы находятся в папке datasets
+Dataset'ы находятся в папке datasets
 
-##Результат либо в консоли,либо в result.txt
+Результат либо в консоли,либо в result.txt
